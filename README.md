@@ -1,4 +1,6 @@
-This was adapted from the template [here](https://github.com/sb2nov/resume), with some modifications to design, the code, and ability to get up and running. [Preview](#preview) here.
+This template was originally created by [Leslie Cheng](https://github.com/lcfyi). Thank you Leslie for the absolutely gorgeous resume template!
+
+The template was adapted from the template [here](https://github.com/sb2nov/resume), with some modifications to design, the code, and ability to get up and running. [Preview](#preview) here.
 
 # Usage
 
